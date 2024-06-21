@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "958270588787",
+    "project_id": "mobilecms-33c89",
+    "storage_bucket": "mobilecms-33c89.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:958270588787:android:3747b5a2f9ebaa71486706",
+        "android_client_info": {
+          "package_name": "com.geekyants.moiblecms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCyyjJ0bWz-xaCeZ2dZP05MMgJ1k-t5CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
